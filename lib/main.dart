@@ -30,7 +30,7 @@ class ProductDetailsPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Text(
-              'DM-10',
+              'DM-7',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 10),
@@ -40,7 +40,7 @@ class ProductDetailsPage extends StatelessWidget {
               height: 200,
             ),
             SizedBox(height: 10),
-            Text('Product Price: ৳550 BDT'),
+            Text('Product Price: ৳450 BDT'),
             SizedBox(height: 10),
             Text('Best low price headphone for gamers'),
             SizedBox(height: 10),
