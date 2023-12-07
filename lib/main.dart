@@ -40,7 +40,7 @@ class ProductDetailsPage extends StatelessWidget {
               height: 200,
             ),
             SizedBox(height: 10),
-            Text('Product Price: ৳500 BDT'),
+            Text('Product Price: ৳600 BDT'),
             SizedBox(height: 10),
             Text('Best low price headphone for gamers'),
             SizedBox(height: 10),
